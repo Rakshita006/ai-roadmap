@@ -25,7 +25,7 @@ connectDB();
 // ✅ CORS FIX
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://ai-roadmap-iota.vercel.app"
+  "https://ai-roadmap-flame.vercel.app"
 ];
 
 app.use(cors({
